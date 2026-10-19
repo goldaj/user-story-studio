@@ -47,3 +47,7 @@ Sample examples are fictional and do not reflect proprietary company processes o
 ## Technologies
 
 HTML, CSS, vanilla JavaScript, localStorage, Markdown. Zero external dependencies. MIT license.
+
+## Status and limits
+
+This is an implemented portfolio prototype: the repository includes the static browser interface, deterministic story/Markdown logic, fictional examples, a screenshot, and an automated test script. It is a drafting aid; field completeness does not certify requirement quality, regulatory compliance, or readiness for implementation. No real-team usability study or production deployment evidence is included. Shared editing, accounts, and a backend are outside the current scope.
